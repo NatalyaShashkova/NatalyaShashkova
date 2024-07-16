@@ -2,9 +2,26 @@
   <img width="600" height="200" src="https://github.com/NatalyaShashkova/NatalyaShashkova/blob/main/gif/2D%20Graph.gif"  alt="animated" />
 </p>
 
+## <p align="center">Natalya Shashkova</p>
+### <p align="center">Junior Data Analyst</p>
 
-### **Junior Data Analyst**
-#### *Учусь преобразовывать данные в инсайты* 
-#### *I'm learning to transform data into insights*
+<table align="center">
+  <tr>
+    <td align="left">
+      <img width="350" height="100" src="https://github-readme-stats.vercel.app/api?username=NatalyaShashkova&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ffff00&text_color=ffffff&bg_color=4b0082" alt="Natalya Shashkova's GitHub stats" />
+    </td>
+    <td align="right">
+      <h4>Учусь преобразовывать данные в инсайты</h4>
+      <h4>I'm learning to transform data into insights</h4>
+    </td>
+  </tr>
+</table>
+<div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatalyaShashkova&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ffff00&text_color=ffffff&bg_color=4b0082)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="">[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)](https://t.me/NatalyaShaskova)</a>
+  <a href="">[![WHATSAPP](https://img.shields.io/badge/-WHATSAPP-28D146?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF)](https://wa.me/9215815503)</a>
+<a href="mailto:9215815503sh@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-27A7E7?style=for-the-badge&logo=email" alt="Email">
+</a>
+
+</div>
