@@ -3,7 +3,6 @@
 </p>
 
 ## <p align="center">Natalya Shashkova</p>
-## <p align="center" style="color: blue;">Natalya Shashkova</p>
 ### <p align="center">Junior Data Analyst</p>
 
 <table align="center">
