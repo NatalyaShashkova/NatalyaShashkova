@@ -2,8 +2,8 @@
   <img width="800" height="100" src="https://github.com/NatalyaShashkova/NatalyaShashkova/blob/main/gif/2D%20Graph.gif"  alt="animated" />
 </p>
 
-#### <p align="center">Natalya Shashkova</p>
-##### <p align="center">Junior Data Analyst</p>
+### <p align="center">Natalya Shashkova</p>
+#### <p align="center">Junior Data Analyst</p>
 
 <table align="center">
   <tr>
