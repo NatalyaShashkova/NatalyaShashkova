@@ -2,8 +2,8 @@
   <img width="800" height="100" src="https://github.com/NatalyaShashkova/NatalyaShashkova/blob/main/gif/2D%20Graph.gif"  alt="animated" />
 </p>
 
-## <p align="center">Natalya Shashkova</p>
-### <p align="center">Junior Data Analyst</p>
+#### <p align="center">Natalya Shashkova</p>
+##### <p align="center">Junior Data Analyst</p>
 
 <table align="center">
   <tr>
@@ -11,8 +11,8 @@
       <img width="350" height="100" src="https://github-readme-stats.vercel.app/api?username=NatalyaShashkova&show_icons=true&theme=radical&title_color=0000ff&icon_color=0000ff&text_color=191970&bg_color=87cefa" alt="Natalya Shashkova's GitHub stats" />
     </td>
     <td align="right">
-      <h4>Учусь преобразовывать данные в инсайты</h4>
-      <h4>I'm learning to transform data into insights</h4>
+      <h5>Учусь преобразовывать данные в инсайты</h5>
+      <h5>I'm learning to transform data into insights</h5>
     </td>
   </tr>
 </table>
