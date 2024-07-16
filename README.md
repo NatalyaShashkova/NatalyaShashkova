@@ -1,4 +1,7 @@
-![Header](https://github.com/NatalyaShashkova/NatalyaShashkova/blob/main/gif/2D%20Graph.gif)
+<p align="center">
+  <img width="600" height="200" src="https://github.com/NatalyaShashkova/NatalyaShashkova/blob/main/gif/2D%20Graph.gif"  alt="animated" />
+</p>
+
 
 ### **Junior Data Analyst**
 #### *Учусь преобразовывать данные в инсайты* 
