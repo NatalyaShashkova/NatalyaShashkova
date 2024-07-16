@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="600" height="200" src="https://github.com/NatalyaShashkova/NatalyaShashkova/blob/main/gif/2D%20Graph.gif"  alt="animated" />
+  <img width="800" height="100" src="https://github.com/NatalyaShashkova/NatalyaShashkova/blob/main/gif/2D%20Graph.gif"  alt="animated" />
 </p>
 
 ## <p align="center">Natalya Shashkova</p>
