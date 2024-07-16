@@ -8,7 +8,7 @@
 <table align="center">
   <tr>
     <td align="left">
-      <img width="350" height="100" src="https://github-readme-stats.vercel.app/api?username=NatalyaShashkova&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ffff00&text_color=ffffff&bg_color=4b0082" alt="Natalya Shashkova's GitHub stats" />
+      <img width="350" height="100" src="https://github-readme-stats.vercel.app/api?username=NatalyaShashkova&show_icons=true&theme=radical&title_color=0000ff&icon_color=0000ff&text_color=191970&bg_color=87cefa" alt="Natalya Shashkova's GitHub stats" />
     </td>
     <td align="right">
       <h4>Учусь преобразовывать данные в инсайты</h4>
